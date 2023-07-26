@@ -108,5 +108,5 @@ Execute the program
 
 # OUPUT
 ### timetable
-![timetable](timetable.png)
+![timetable](timetable1.png)
 
